@@ -1,6 +1,6 @@
 ## Fuzz Anything
 
-![hopper](../img/hopper.gif)
+- [hopper](https://github.com/FuzzAnything/hopper)
 
 <!--
 
